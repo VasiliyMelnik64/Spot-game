@@ -1,6 +1,6 @@
 # Spot-game
 
-Браузерная реализация игры «пятнашки». 
+Browser implementation of the game "spots". 
 
 - the state of the field is stored in an array that is randomly filled by numbers when the game starts;
 - the field is displayed on the page as a table;
